@@ -1,0 +1,1085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Tirana",
+        "Country": "Albania",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": 1,
+        "Year_1985_1989": "",
+        "Year_1990_1994": 3,
+        "Year_1995_1999": 15,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 1,
+        "Year_2010_2014": "",
+        "Year_2015_2017": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8251705,
+          41.322319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Yerevan",
+        "Country": "Armenia",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": 1,
+        "Year_1990_1994": 7,
+        "Year_1995_1999": 4,
+        "Year_2000_2004": 3,
+        "Year_2005_2009": 2,
+        "Year_2010_2014": 1,
+        "Year_2015_2017": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5128708,
+          40.1786003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Vienna",
+        "Country": "Austria",
+        "Year_1970_1974": 9,
+        "Year_1975_1979": 14,
+        "Year_1980_1984": 19,
+        "Year_1985_1989": 13,
+        "Year_1990_1994": 4,
+        "Year_1995_1999": 7,
+        "Year_2000_2004": "",
+        "Year_2005_2009": 7,
+        "Year_2010_2014": 1,
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3687992,
+          48.2025414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Baku",
+        "Country": "Azerbaijan",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 12,
+        "Year_1995_1999": 5,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 4,
+        "Year_2010_2014": 2,
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8722191,
+          40.4106598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Minsk",
+        "Country": "Belarus",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 1,
+        "Year_1995_1999": 3,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 2,
+        "Year_2010_2014": 3,
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5654297,
+          53.9037514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brussels",
+        "Country": "Belgium",
+        "Year_1970_1974": 9,
+        "Year_1975_1979": 14,
+        "Year_1980_1984": 22,
+        "Year_1985_1989": 26,
+        "Year_1990_1994": 21,
+        "Year_1995_1999": 5,
+        "Year_2000_2004": 7,
+        "Year_2005_2009": 1,
+        "Year_2010_2014": 3,
+        "Year_2015_2017": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3560901,
+          50.8443909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Sarajevo",
+        "Country": "Bosnia and Herezegovina",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 17,
+        "Year_1995_1999": 12,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 2,
+        "Year_2010_2014": 1,
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4357605,
+          43.8594208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Sofia",
+        "Country": "Bulgaria",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 6,
+        "Year_1995_1999": 16,
+        "Year_2000_2004": 3,
+        "Year_2005_2009": "",
+        "Year_2010_2014": 4,
+        "Year_2015_2017": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3243103,
+          42.6971817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Zagreb",
+        "Country": "Croatia",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 5,
+        "Year_1995_1999": "",
+        "Year_2000_2004": 2,
+        "Year_2005_2009": 1,
+        "Year_2010_2014": 2,
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9675703,
+          45.8072395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Prague",
+        "Country": "Czech Republic",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": 2,
+        "Year_1990_1994": 4,
+        "Year_1995_1999": 8,
+        "Year_2000_2004": "",
+        "Year_2005_2009": 2,
+        "Year_2010_2014": 3,
+        "Year_2015_2017": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4330196,
+          50.0791283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Copenhagen",
+        "Country": "Denmark",
+        "Year_1970_1974": "",
+        "Year_1975_1979": 3,
+        "Year_1980_1984": 6,
+        "Year_1985_1989": 9,
+        "Year_1990_1994": 5,
+        "Year_1995_1999": 6,
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": 2,
+        "Year_2015_2017": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5675602,
+          55.6756706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Tallinn",
+        "Country": "Estonia",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 4,
+        "Year_1995_1999": 1,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": "",
+        "Year_2010_2014": 1,
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7525806,
+          59.4364204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Helsinki",
+        "Country": "Finland",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": 1,
+        "Year_1990_1994": 1,
+        "Year_1995_1999": 1,
+        "Year_2000_2004": "",
+        "Year_2005_2009": 1,
+        "Year_2010_2014": "",
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9326496,
+          60.1711617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Paris",
+        "Country": "France",
+        "Year_1970_1974": 35,
+        "Year_1975_1979": 210,
+        "Year_1980_1984": 171,
+        "Year_1985_1989": 92,
+        "Year_1990_1994": 32,
+        "Year_1995_1999": 24,
+        "Year_2000_2004": 12,
+        "Year_2005_2009": 4,
+        "Year_2010_2014": 7,
+        "Year_2015_2017": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34144,
+          48.8572083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Tbilisi",
+        "Country": "Georgia",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 20,
+        "Year_1995_1999": 10,
+        "Year_2000_2004": 7,
+        "Year_2005_2009": 7,
+        "Year_2010_2014": 5,
+        "Year_2015_2017": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7961197,
+          41.7090797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Berlin",
+        "Country": "Germany",
+        "Year_1970_1974": 17,
+        "Year_1975_1979": 2,
+        "Year_1980_1984": 2,
+        "Year_1985_1989": 13,
+        "Year_1990_1994": 41,
+        "Year_1995_1999": 13,
+        "Year_2000_2004": 4,
+        "Year_2005_2009": 3,
+        "Year_2010_2014": 12,
+        "Year_2015_2017": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3769102,
+          52.5160408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Athens",
+        "Country": "Greece",
+        "Year_1970_1974": 19,
+        "Year_1975_1979": 107,
+        "Year_1980_1984": 85,
+        "Year_1985_1989": 161,
+        "Year_1990_1994": 159,
+        "Year_1995_1999": 85,
+        "Year_2000_2004": 48,
+        "Year_2005_2009": 154,
+        "Year_2010_2014": 112,
+        "Year_2015_2017": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7364006,
+          37.9761391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Budapest",
+        "Country": "Hungary",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": 1,
+        "Year_1990_1994": 6,
+        "Year_1995_1999": 30,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 1,
+        "Year_2010_2014": 1,
+        "Year_2015_2017": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0550804,
+          47.4997215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Reykjavik",
+        "Country": "Iceland",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": 1,
+        "Year_1985_1989": "",
+        "Year_1990_1994": "",
+        "Year_1995_1999": "",
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": 1,
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9342194,
+          64.1474609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Dublin",
+        "Country": "Ireland",
+        "Year_1970_1974": 7,
+        "Year_1975_1979": 11,
+        "Year_1980_1984": 11,
+        "Year_1985_1989": 23,
+        "Year_1990_1994": 18,
+        "Year_1995_1999": 4,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 2,
+        "Year_2010_2014": 32,
+        "Year_2015_2017": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24827,
+          53.3480682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Rome",
+        "Country": "Italy",
+        "Year_1970_1974": 23,
+        "Year_1975_1979": 325,
+        "Year_1980_1984": 121,
+        "Year_1985_1989": 24,
+        "Year_1990_1994": 25,
+        "Year_1995_1999": 8,
+        "Year_2000_2004": 9,
+        "Year_2005_2009": "",
+        "Year_2010_2014": 10,
+        "Year_2015_2017": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4956503,
+          41.9032211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Pristina",
+        "Country": "Kosovo",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": 1,
+        "Year_1985_1989": "",
+        "Year_1990_1994": 1,
+        "Year_1995_1999": 23,
+        "Year_2000_2004": 15,
+        "Year_2005_2009": 6,
+        "Year_2010_2014": 1,
+        "Year_2015_2017": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1624298,
+          42.6717987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Riga",
+        "Country": "Latvia",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 8,
+        "Year_1995_1999": 8,
+        "Year_2000_2004": 3,
+        "Year_2005_2009": 1,
+        "Year_2010_2014": "",
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1148701,
+          56.9459801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Vilnius",
+        "Country": "Lithuania",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 1,
+        "Year_1995_1999": 5,
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2698002,
+          54.6906204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Luxembourg",
+        "Country": "Luxembourg",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": 2,
+        "Year_1985_1989": 7,
+        "Year_1990_1994": "",
+        "Year_1995_1999": "",
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1296902,
+          49.6095886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Valletta",
+        "Country": "Malta",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": 3,
+        "Year_1985_1989": 6,
+        "Year_1990_1994": "",
+        "Year_1995_1999": 1,
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5117998,
+          35.8935318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Chisinau",
+        "Country": "Moldova",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": "",
+        "Year_1995_1999": 3,
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8324203,
+          47.0245895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Podgorica",
+        "Country": "Montenegro",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": "",
+        "Year_1995_1999": "",
+        "Year_2000_2004": 2,
+        "Year_2005_2009": 1,
+        "Year_2010_2014": 1,
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2638798,
+          42.4354515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Amsterdam",
+        "Country": "Netherlands",
+        "Year_1970_1974": 4,
+        "Year_1975_1979": 4,
+        "Year_1980_1984": 6,
+        "Year_1985_1989": 11,
+        "Year_1990_1994": 8,
+        "Year_1995_1999": 3,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": "",
+        "Year_2010_2014": 1,
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8705301,
+          52.3348007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Skopje",
+        "Country": "North Macedonia",
+        "Year_1970_1974": 1,
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": "",
+        "Year_1995_1999": 3,
+        "Year_2000_2004": 14,
+        "Year_2005_2009": 2,
+        "Year_2010_2014": 2,
+        "Year_2015_2017": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4303093,
+          41.9946709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Oslo",
+        "Country": "Norway",
+        "Year_1970_1974": "",
+        "Year_1975_1979": 1,
+        "Year_1980_1984": 1,
+        "Year_1985_1989": 2,
+        "Year_1990_1994": 6,
+        "Year_1995_1999": 1,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 1,
+        "Year_2010_2014": 2,
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.9122887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Warsaw",
+        "Country": "Poland",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": 1,
+        "Year_1985_1989": "",
+        "Year_1990_1994": 7,
+        "Year_1995_1999": 9,
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0103703,
+          52.2355995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Lisbon",
+        "Country": "Portugal",
+        "Year_1970_1974": 2,
+        "Year_1975_1979": 27,
+        "Year_1980_1984": 19,
+        "Year_1985_1989": 20,
+        "Year_1990_1994": "",
+        "Year_1995_1999": 3,
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": 2,
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1494799,
+          38.7263908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bucharest",
+        "Country": "Romania",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": 1,
+        "Year_1985_1989": 1,
+        "Year_1990_1994": 2,
+        "Year_1995_1999": 1,
+        "Year_2000_2004": "",
+        "Year_2005_2009": 1,
+        "Year_2010_2014": "",
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1029797,
+          44.4342918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Moscow",
+        "Country": "Russia",
+        "Year_1970_1974": "",
+        "Year_1975_1979": 1,
+        "Year_1980_1984": "",
+        "Year_1985_1989": 2,
+        "Year_1990_1994": 24,
+        "Year_1995_1999": 62,
+        "Year_2000_2004": 13,
+        "Year_2005_2009": 6,
+        "Year_2010_2014": 18,
+        "Year_2015_2017": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6150208,
+          55.7569618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Belgrade",
+        "Country": "Serbia",
+        "Year_1970_1974": 1,
+        "Year_1975_1979": "",
+        "Year_1980_1984": 3,
+        "Year_1985_1989": "",
+        "Year_1990_1994": 2,
+        "Year_1995_1999": 10,
+        "Year_2000_2004": 8,
+        "Year_2005_2009": 5,
+        "Year_2010_2014": 1,
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4632893,
+          44.8130989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bratislava",
+        "Country": "Slovakia",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 1,
+        "Year_1995_1999": 10,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1069908,
+          48.14925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Ljubljiana",
+        "Country": "Slovenia",
+        "Year_1970_1974": "",
+        "Year_1975_1979": 1,
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": "",
+        "Year_1995_1999": 1,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8217602,
+          46.1195564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Madrid",
+        "Country": "Spain",
+        "Year_1970_1974": 16,
+        "Year_1975_1979": 187,
+        "Year_1980_1984": 62,
+        "Year_1985_1989": 52,
+        "Year_1990_1994": 42,
+        "Year_1995_1999": 14,
+        "Year_2000_2004": 32,
+        "Year_2005_2009": 6,
+        "Year_2010_2014": 3,
+        "Year_2015_2017": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70577,
+          40.4202805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Stockholm",
+        "Country": "Sweden",
+        "Year_1970_1974": 3,
+        "Year_1975_1979": 2,
+        "Year_1980_1984": 1,
+        "Year_1985_1989": 6,
+        "Year_1990_1994": 13,
+        "Year_1995_1999": 2,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 2,
+        "Year_2010_2014": 2,
+        "Year_2015_2017": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0668297,
+          59.3325691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Bern",
+        "Country": "Switzerland",
+        "Year_1970_1974": 1,
+        "Year_1975_1979": 2,
+        "Year_1980_1984": 5,
+        "Year_1985_1989": 2,
+        "Year_1990_1994": 2,
+        "Year_1995_1999": 2,
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4404602,
+          46.9484291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Ankara",
+        "Country": "Turkey",
+        "Year_1970_1974": 38,
+        "Year_1975_1979": 104,
+        "Year_1980_1984": 13,
+        "Year_1985_1989": 15,
+        "Year_1990_1994": 64,
+        "Year_1995_1999": 9,
+        "Year_2000_2004": 9,
+        "Year_2005_2009": 9,
+        "Year_2010_2014": 10,
+        "Year_2015_2017": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8539085,
+          39.9210892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kiev",
+        "Country": "Ukraine",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": "",
+        "Year_1985_1989": "",
+        "Year_1990_1994": 6,
+        "Year_1995_1999": 3,
+        "Year_2000_2004": 1,
+        "Year_2005_2009": 0,
+        "Year_2010_2014": 16,
+        "Year_2015_2017": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5242805,
+          50.4505615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "London",
+        "Country": "United Kingdom",
+        "Year_1970_1974": 51,
+        "Year_1975_1979": 59,
+        "Year_1980_1984": 56,
+        "Year_1985_1989": 47,
+        "Year_1990_1994": 121,
+        "Year_1995_1999": 50,
+        "Year_2000_2004": 10,
+        "Year_2005_2009": 18,
+        "Year_2010_2014": 5,
+        "Year_2015_2017": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12721,
+          51.5064201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Vatican City",
+        "Country": "Vatican",
+        "Year_1970_1974": "",
+        "Year_1975_1979": "",
+        "Year_1980_1984": 1,
+        "Year_1985_1989": "",
+        "Year_1990_1994": "",
+        "Year_1995_1999": "",
+        "Year_2000_2004": "",
+        "Year_2005_2009": "",
+        "Year_2010_2014": "",
+        "Year_2015_2017": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4583902,
+          41.9024582
+        ]
+      }
+    }
+  ]
+}

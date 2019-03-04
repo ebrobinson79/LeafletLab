@@ -1,0 +1,126 @@
+html, body{
+    height: 90%;
+    width: 100%;
+    
+}
+
+#map{
+    height: 90%;
+    width: 90%;
+    left: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 10px;
+    
+    
+}
+
+leaflet-container leaflet-fade-anim{
+    padding-bottom: 50px;
+}
+
+body {
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+.sequence-control-container {
+    width: 350px;
+    height: 20px;
+    background-color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    line-height: 5px;
+    text-align: center;
+    border: solid gray 1px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.range-slider {
+    width: 200px;
+}
+
+#forward {
+    float: right
+    }
+
+#reverse {
+    float: left;
+}
+
+.legend-control-container {
+    width: 270px;
+    height: 150px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+    font-weight: bold;
+}
+
+.temporal-legend {
+    position: absolute;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 30px
+}
+
+.myButton {
+  position: relative;  
+  padding-left: 40px;  
+  padding-top: 105px;
+}
+
+/* Make the image responsive */
+.myButton img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.myButton .btn {
+  position: absolute;
+  top: 50%;
+  left: 200%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #6495ED;
+  color: white;
+  font-size: 16px;
+  padding: 15px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.myButton .btn:hover {
+  background-color: black;
+}
+
+
+/* Change the color of links on hover */
+
+
+
+

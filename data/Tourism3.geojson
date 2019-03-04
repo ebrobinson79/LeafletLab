@@ -1,0 +1,1037 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Albania",
+        "Year_2007": 1.062,
+        "Year_2008": 1.247,
+        "Year_2009": 1.711,
+        "Year_2010": 2.191,
+        "Year_2011": 2.469,
+        "Year_2012": 3.156,
+        "Year_2013": 2.857,
+        "Year_2014": 3.341,
+        "Year_2015": 3.784,
+        "Year_2016": 4.07,
+        "Year_2017": 4.643
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8251705,
+          41.322319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Austria",
+        "Year_2007": 20.773,
+        "Year_2008": 21.935,
+        "Year_2009": 21.355,
+        "Year_2010": 22.004,
+        "Year_2011": 23.012,
+        "Year_2012": 24.151,
+        "Year_2013": 24.813,
+        "Year_2014": 25.291,
+        "Year_2015": 26.728,
+        "Year_2016": 28.121,
+        "Year_2017": 29.46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3687992,
+          48.2025414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Armenia",
+        "Year_2007": 0.511,
+        "Year_2008": 0.558,
+        "Year_2009": 0.575,
+        "Year_2010": 0.684,
+        "Year_2011": 0.758,
+        "Year_2012": 0.963,
+        "Year_2013": 1.084,
+        "Year_2014": 1.204,
+        "Year_2015": 1.192,
+        "Year_2016": 1.26,
+        "Year_2017": 1.495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5128708,
+          40.1786003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Azerbaijan",
+        "Year_2007": 0.732,
+        "Year_2008": 1.043,
+        "Year_2009": 1.005,
+        "Year_2010": 1.28,
+        "Year_2011": 1.562,
+        "Year_2012": 1.986,
+        "Year_2013": 2.13,
+        "Year_2014": 2.16,
+        "Year_2015": 1.922,
+        "Year_2016": 2.044,
+        "Year_2017": 2.454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8722191,
+          40.4106598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Belarus",
+        "Year_2007": 0.105,
+        "Year_2008": 0.091,
+        "Year_2009": 0.095,
+        "Year_2010": 0.119,
+        "Year_2011": 0.116,
+        "Year_2012": 6.13,
+        "Year_2013": 6.242,
+        "Year_2014": 5.375,
+        "Year_2015": 4.386,
+        "Year_2016": 10.935,
+        "Year_2017": 11.06
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5654297,
+          53.9037514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Belgium",
+        "Year_2007": 7.045,
+        "Year_2008": 7.165,
+        "Year_2009": 6.815,
+        "Year_2010": 7.186,
+        "Year_2011": 7.494,
+        "Year_2012": 7.56,
+        "Year_2013": 7.684,
+        "Year_2014": 7.887,
+        "Year_2015": 8.355,
+        "Year_2016": 7.481,
+        "Year_2017": 8.385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3560901,
+          50.8443909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bosnia and Herzegovina",
+        "Year_2007": 0.306,
+        "Year_2008": 0.322,
+        "Year_2009": 0.311,
+        "Year_2010": 0.365,
+        "Year_2011": 0.392,
+        "Year_2012": 0.439,
+        "Year_2013": 0.529,
+        "Year_2014": 0.536,
+        "Year_2015": 0.678,
+        "Year_2016": 0.778,
+        "Year_2017": 0.923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4357605,
+          43.8594208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bulgaria",
+        "Year_2007": 5.151,
+        "Year_2008": 5.78,
+        "Year_2009": 5.739,
+        "Year_2010": 6.047,
+        "Year_2011": 6.328,
+        "Year_2012": 6.541,
+        "Year_2013": 6.898,
+        "Year_2014": 7.311,
+        "Year_2015": 7.099,
+        "Year_2016": 8.252,
+        "Year_2017": 8.883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3243103,
+          42.6971817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Croatia",
+        "Year_2007": 8.559,
+        "Year_2008": 8.665,
+        "Year_2009": 8.694,
+        "Year_2010": 9.111,
+        "Year_2011": 9.927,
+        "Year_2012": 10.369,
+        "Year_2013": 10.948,
+        "Year_2014": 11.623,
+        "Year_2015": 12.683,
+        "Year_2016": 13.809,
+        "Year_2017": 15.593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9675703,
+          45.8072395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Czech Republic",
+        "Year_2007": 6.68,
+        "Year_2008": 6.649,
+        "Year_2009": 6.032,
+        "Year_2010": 6.334,
+        "Year_2011": 6.715,
+        "Year_2012": 7.647,
+        "Year_2013": 7.852,
+        "Year_2014": 8.096,
+        "Year_2015": 8.707,
+        "Year_2016": 9.321,
+        "Year_2017": 10.16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4330196,
+          50.0791283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Denmark",
+        "Year_2007": 9.832,
+        "Year_2008": 9.564,
+        "Year_2009": 9.265,
+        "Year_2010": 9.425,
+        "Year_2011": 8.471,
+        "Year_2012": 8.443,
+        "Year_2013": 8.557,
+        "Year_2014": 10.267,
+        "Year_2015": 10.424,
+        "Year_2016": 10.781,
+        "Year_2017": 11.743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5675602,
+          55.6756706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Estonia",
+        "Year_2007": 1.9,
+        "Year_2008": 2.222,
+        "Year_2009": 2.18,
+        "Year_2010": 2.511,
+        "Year_2011": 2.823,
+        "Year_2012": 2.957,
+        "Year_2013": 3.111,
+        "Year_2014": 3.16,
+        "Year_2015": 2.961,
+        "Year_2016": 3.131,
+        "Year_2017": 3.245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7525806,
+          59.4364204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Finland",
+        "Year_2007": 2.472,
+        "Year_2008": 2.494,
+        "Year_2009": 2.22,
+        "Year_2010": 2.319,
+        "Year_2011": 2.623,
+        "Year_2012": 2.778,
+        "Year_2013": 2.797,
+        "Year_2014": 2.731,
+        "Year_2015": 2.622,
+        "Year_2016": 2.789,
+        "Year_2017": 3.18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9326496,
+          60.1711617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "France",
+        "Year_2007": 80.853,
+        "Year_2008": 79.218,
+        "Year_2009": 76.764,
+        "Year_2010": 76.647,
+        "Year_2011": 80.499,
+        "Year_2012": 81.98,
+        "Year_2013": 83.634,
+        "Year_2014": 83.701,
+        "Year_2015": 84.452,
+        "Year_2016": 82.682,
+        "Year_2017": 86.861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34144,
+          48.8572083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Germany",
+        "Year_2007": 24.421,
+        "Year_2008": 24.884,
+        "Year_2009": 24.22,
+        "Year_2010": 26.875,
+        "Year_2011": 28.374,
+        "Year_2012": 30.411,
+        "Year_2013": 31.545,
+        "Year_2014": 32.999,
+        "Year_2015": 34.97,
+        "Year_2016": 35.555,
+        "Year_2017": 37.452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7961197,
+          41.7090797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Georgia",
+        "Year_2007": 1.052,
+        "Year_2008": 1.29,
+        "Year_2009": 1.5,
+        "Year_2010": 2.032,
+        "Year_2011": 2.712,
+        "Year_2012": 4.106,
+        "Year_2013": 4.954,
+        "Year_2014": 5.004,
+        "Year_2015": 5.256,
+        "Year_2016": 5.393,
+        "Year_2017": 6.483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3769102,
+          52.5160408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Greece",
+        "Year_2007": 16.165,
+        "Year_2008": 15.939,
+        "Year_2009": 14.915,
+        "Year_2010": 15.007,
+        "Year_2011": 16.427,
+        "Year_2012": 15.518,
+        "Year_2013": 17.92,
+        "Year_2014": 22.033,
+        "Year_2015": 23.599,
+        "Year_2016": 24.799,
+        "Year_2017": 27.194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7364006,
+          37.9761391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Hungary",
+        "Year_2007": 3.451,
+        "Year_2008": 3.516,
+        "Year_2009": 3.228,
+        "Year_2010": 3.462,
+        "Year_2011": 3.822,
+        "Year_2012": 4.164,
+        "Year_2013": 4.388,
+        "Year_2014": 4.618,
+        "Year_2015": 4.929,
+        "Year_2016": 5.302,
+        "Year_2017": 5.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0550804,
+          47.4997215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Ireland",
+        "Year_2007": 8.332,
+        "Year_2008": 8.026,
+        "Year_2009": 7.189,
+        "Year_2010": 7.134,
+        "Year_2011": 7.63,
+        "Year_2012": 7.55,
+        "Year_2013": 8.26,
+        "Year_2014": 8.813,
+        "Year_2015": 9.528,
+        "Year_2016": 10.1,
+        "Year_2017": 10.338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9342194,
+          64.1474609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Iceland",
+        "Year_2007": 0.485,
+        "Year_2008": 0.502,
+        "Year_2009": 0.494,
+        "Year_2010": 0.489,
+        "Year_2011": 0.566,
+        "Year_2012": 0.673,
+        "Year_2013": 0.807,
+        "Year_2014": 0.998,
+        "Year_2015": 1.289,
+        "Year_2016": 1.792,
+        "Year_2017": 2.225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24827,
+          53.3480682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Italy",
+        "Year_2007": 43.654,
+        "Year_2008": 42.734,
+        "Year_2009": 43.239,
+        "Year_2010": 43.626,
+        "Year_2011": 46.119,
+        "Year_2012": 46.36,
+        "Year_2013": 47.704,
+        "Year_2014": 48.576,
+        "Year_2015": 50.732,
+        "Year_2016": 52.372,
+        "Year_2017": 58.253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4956503,
+          41.9032211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Latvia",
+        "Year_2007": 1.653,
+        "Year_2008": 1.684,
+        "Year_2009": 1.323,
+        "Year_2010": 1.373,
+        "Year_2011": 1.493,
+        "Year_2012": 1.435,
+        "Year_2013": 1.536,
+        "Year_2014": 1.843,
+        "Year_2015": 2.024,
+        "Year_2016": 1.793,
+        "Year_2017": 1.949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1148701,
+          56.9459801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Lithuania",
+        "Year_2007": 1.486,
+        "Year_2008": 1.611,
+        "Year_2009": 1.341,
+        "Year_2010": 1.507,
+        "Year_2011": 1.775,
+        "Year_2012": 1.9,
+        "Year_2013": 2.012,
+        "Year_2014": 2.063,
+        "Year_2015": 2.071,
+        "Year_2016": 2.296,
+        "Year_2017": 2.523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2698002,
+          54.6906204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Luxembourg",
+        "Year_2007": 0.914,
+        "Year_2008": 0.877,
+        "Year_2009": 0.847,
+        "Year_2010": 0.805,
+        "Year_2011": 0.874,
+        "Year_2012": 0.95,
+        "Year_2013": 0.945,
+        "Year_2014": 1.038,
+        "Year_2015": 1.09,
+        "Year_2016": 1.054,
+        "Year_2017": 1.046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1296902,
+          49.6095886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Malta",
+        "Year_2007": 1.244,
+        "Year_2008": 1.291,
+        "Year_2009": 1.182,
+        "Year_2010": 1.339,
+        "Year_2011": 1.415,
+        "Year_2012": 1.443,
+        "Year_2013": 1.582,
+        "Year_2014": 1.69,
+        "Year_2015": 1.783,
+        "Year_2016": 1.966,
+        "Year_2017": 2.274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5117998,
+          35.8935318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Moldova",
+        "Year_2007": 0.07,
+        "Year_2008": 0.073,
+        "Year_2009": 0.06,
+        "Year_2010": 0.064,
+        "Year_2011": 0.075,
+        "Year_2012": 0.089,
+        "Year_2013": 0.096,
+        "Year_2014": 0.094,
+        "Year_2015": 0.094,
+        "Year_2016": 0.121,
+        "Year_2017": 0.145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8324203,
+          47.0245895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Montenegro",
+        "Year_2007": 0.984,
+        "Year_2008": 1.031,
+        "Year_2009": 1.044,
+        "Year_2010": 1.088,
+        "Year_2011": 1.201,
+        "Year_2012": 1.264,
+        "Year_2013": 1.324,
+        "Year_2014": 1.35,
+        "Year_2015": 1.56,
+        "Year_2016": 1.662,
+        "Year_2017": 1.877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2638798,
+          42.4354515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Netherlands",
+        "Year_2007": 11.008,
+        "Year_2008": 10.104,
+        "Year_2009": 9.921,
+        "Year_2010": 10.883,
+        "Year_2011": 11.3,
+        "Year_2012": 11.68,
+        "Year_2013": 12.783,
+        "Year_2014": 13.925,
+        "Year_2015": 15.007,
+        "Year_2016": 15.828,
+        "Year_2017": 17.924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8705301,
+          52.3348007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Macedonia, FYR",
+        "Year_2007": 0.23,
+        "Year_2008": 0.255,
+        "Year_2009": 0.259,
+        "Year_2010": 0.262,
+        "Year_2011": 0.327,
+        "Year_2012": 0.351,
+        "Year_2013": 0.4,
+        "Year_2014": 0.425,
+        "Year_2015": 0.486,
+        "Year_2016": 0.51,
+        "Year_2017": 0.631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4303093,
+          41.9946709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Norway",
+        "Year_2007": 4.377,
+        "Year_2008": 4.347,
+        "Year_2009": 4.346,
+        "Year_2010": 4.767,
+        "Year_2011": 4.963,
+        "Year_2012": 4.538,
+        "Year_2013": 4.778,
+        "Year_2014": 4.855,
+        "Year_2015": 5.361,
+        "Year_2016": 5.96,
+        "Year_2017": 6.252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.9122887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Poland",
+        "Year_2007": 14.975,
+        "Year_2008": 12.96,
+        "Year_2009": 11.89,
+        "Year_2010": 12.47,
+        "Year_2011": 13.35,
+        "Year_2012": 14.84,
+        "Year_2013": 15.8,
+        "Year_2014": 16,
+        "Year_2015": 16.728,
+        "Year_2016": 17.471,
+        "Year_2017": 18.258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0103703,
+          52.2355995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Portugal",
+        "Year_2007": 6.788,
+        "Year_2008": 6.962,
+        "Year_2009": 6.439,
+        "Year_2010": 6.756,
+        "Year_2011": 7.264,
+        "Year_2012": 7.503,
+        "Year_2013": 9.177,
+        "Year_2014": 10.497,
+        "Year_2015": 11.723,
+        "Year_2016": 13.359,
+        "Year_2017": 15.432
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1494799,
+          38.7263908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Romania",
+        "Year_2007": 7.722,
+        "Year_2008": 8.862,
+        "Year_2009": 7.575,
+        "Year_2010": 7.498,
+        "Year_2011": 7.611,
+        "Year_2012": 7.937,
+        "Year_2013": 8.019,
+        "Year_2014": 8.442,
+        "Year_2015": 9.331,
+        "Year_2016": 10.223,
+        "Year_2017": 10.926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1029797,
+          44.4342918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Russian Federation",
+        "Year_2007": 22.909,
+        "Year_2008": 23.676,
+        "Year_2009": 21.339,
+        "Year_2010": 22.281,
+        "Year_2011": 24.932,
+        "Year_2012": 28.177,
+        "Year_2013": 30.792,
+        "Year_2014": 32.421,
+        "Year_2015": 33.729,
+        "Year_2016": 24.571,
+        "Year_2017": 24.39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6150208,
+          55.7569618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Serbia",
+        "Year_2007": 0.696,
+        "Year_2008": 0.646,
+        "Year_2009": 0.645,
+        "Year_2010": 0.683,
+        "Year_2011": 0.764,
+        "Year_2012": 0.81,
+        "Year_2013": 0.922,
+        "Year_2014": 1.029,
+        "Year_2015": 1.132,
+        "Year_2016": 1.281,
+        "Year_2017": 1.497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4632893,
+          44.8130989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Slovenia",
+        "Year_2007": 1.751,
+        "Year_2008": 1.958,
+        "Year_2009": 1.824,
+        "Year_2010": 1.869,
+        "Year_2011": 2.037,
+        "Year_2012": 2.156,
+        "Year_2013": 2.259,
+        "Year_2014": 2.411,
+        "Year_2015": 2.707,
+        "Year_2016": 3.032,
+        "Year_2017": 3.586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8217602,
+          46.1195564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Slovak Republic",
+        "Year_2007": 1.685,
+        "Year_2008": 1.767,
+        "Year_2009": 1.298,
+        "Year_2010": 1.327,
+        "Year_2011": 1.46,
+        "Year_2012": 1.528,
+        "Year_2013": 1.67,
+        "Year_2014": 1.475,
+        "Year_2015": 1.721,
+        "Year_2016": 2.027,
+        "Year_2017": 2.162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1069908,
+          48.14925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Spain",
+        "Year_2007": 58.666,
+        "Year_2008": 57.192,
+        "Year_2009": 52.178,
+        "Year_2010": 52.677,
+        "Year_2011": 56.177,
+        "Year_2012": 57.464,
+        "Year_2013": 60.675,
+        "Year_2014": 64.939,
+        "Year_2015": 68.175,
+        "Year_2016": 75.315,
+        "Year_2017": 81.786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70577,
+          40.4202805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Sweden",
+        "Year_2007": 5.224,
+        "Year_2008": 4.555,
+        "Year_2009": 4.899,
+        "Year_2010": 5.183,
+        "Year_2011": 5.222,
+        "Year_2012": 5.146,
+        "Year_2013": 5.229,
+        "Year_2014": 5.66,
+        "Year_2015": 6.482,
+        "Year_2016": 6.782,
+        "Year_2017": 7.054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0668297,
+          59.3325691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Switzerland",
+        "Year_2007": 8.448,
+        "Year_2008": 8.608,
+        "Year_2009": 8.294,
+        "Year_2010": 8.628,
+        "Year_2011": 8.534,
+        "Year_2012": 8.566,
+        "Year_2013": 8.967,
+        "Year_2014": 9.158,
+        "Year_2015": 9.305,
+        "Year_2016": 9.205,
+        "Year_2017": 9.889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4404602,
+          46.9484291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Turkey",
+        "Year_2007": 26.122,
+        "Year_2008": 29.792,
+        "Year_2009": 30.187,
+        "Year_2010": 31.364,
+        "Year_2011": 34.654,
+        "Year_2012": 35.698,
+        "Year_2013": 37.795,
+        "Year_2014": 39.811,
+        "Year_2015": 39.478,
+        "Year_2016": 30.289,
+        "Year_2017": 37.601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8539085,
+          39.9210892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Ukraine",
+        "Year_2007": 23.122,
+        "Year_2008": 25.449,
+        "Year_2009": 20.798,
+        "Year_2010": 21.203,
+        "Year_2011": 21.415,
+        "Year_2012": 23.013,
+        "Year_2013": 24.671,
+        "Year_2014": 12.712,
+        "Year_2015": 12.428,
+        "Year_2016": 13.333,
+        "Year_2017": 14.23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5242805,
+          50.4505615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United Kingdom",
+        "Year_2007": 30.87,
+        "Year_2008": 30.142,
+        "Year_2009": 28.199,
+        "Year_2010": 28.295,
+        "Year_2011": 29.306,
+        "Year_2012": 29.282,
+        "Year_2013": 31.063,
+        "Year_2014": 32.613,
+        "Year_2015": 34.436,
+        "Year_2016": 35.814,
+        "Year_2017": 37.651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12721,
+          51.5064201
+        ]
+      }
+    }
+  ]
+}
